@@ -1,0 +1,110 @@
+.cardbody{
+    /* margin-top: 20%; */
+    background-color: #E6E7EC;
+    color: black;
+    /* border-radius: 20px 20px 20px 20px; */
+    
+}
+
+
+.modalbody{
+    /* margin-top: 20%; */
+    background-color: #E6E7EC;
+    /* color: black; */
+    /* border-radius: 20px 20px 20px 20px; */
+    
+}
+
+Label{
+    text-align: left;
+    
+}
+
+
+
+.inputs{
+    margin-top:20px;
+    text-align: left;
+}
+
+.inputsFile{
+    margin-top: 30px;
+    background-color: none;
+}
+
+input{
+    display: block;
+    width: 100%;
+    background-color: white;
+    border: none;
+    height: 35px;
+    color: black;
+}
+
+select{
+    display: block;
+    width: 100%;
+    background-color: white;
+    border: none;
+    height: 35px;
+    color: black;
+}
+
+textarea{
+    display: block;
+    width: 100%;
+    background-color: white;
+    border: none;
+    color: black;
+}
+
+
+
+.time{
+    text-align: right;
+}
+
+
+.confirm{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.edit{
+    text-align: right;
+    cursor: pointer;
+}
+
+p{
+    color: black;
+}
+
+
+th, td{
+border:1px solid black;
+width: 200px;
+height: 10px;
+}
+
+
+.newClaim{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.links{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
